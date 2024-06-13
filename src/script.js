@@ -35,3 +35,9 @@ function displayProducts(products){
       productList.appendChild(productDiv);
     })
 }
+
+searchInput.addEventListener('input', () =>{
+    const searchQuery = searchInput.value.toLowerCase();
+    const filterProducts = products.filter(product => product.name.toLowerCase().includes(searchQuery));
+    displayProducts(filterProducts)
+})
