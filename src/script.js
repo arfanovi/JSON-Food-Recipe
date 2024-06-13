@@ -101,13 +101,8 @@ function createFooter() {
       <p>&copy; ${new Date().getFullYear()} Treats & Eats. All rights reserved.</p>
       <p>Made with ❤️ by Ovi</p>
     `;
-  
     footer.innerHTML = footerContent;
-  
-    // Append footer to the body
     document.body.appendChild(footer);
   }
-  
-  // Call the createFooter function to generate the footer
   createFooter();
   
