@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Pure Distilled Water",
+      "image": "images/distilled_water_1.jpg",
+      "price": "$1.49",
+      "company": "Pure Drops",
+      "id": 1
+    },
+    {
+      "name": "Premium Distilled Water",
+      "image": "images/distilled_water_2.jpg",
+      "price": "$1.99",
+      "company": "Crystal Clear",
+      "id": 2
+    },
+    {
+      "name": "Distilled Drinking Water",
+      "image": "images/distilled_water_3.jpg",
+      "price": "$1.79",
+      "company": "Clear Blue Waters",
+      "id": 3
+    },
+    {
+      "name": "Organic Distilled Water",
+      "image": "images/distilled_water_4.jpg",
+      "price": "$2.29",
+      "company": "Nature's Pure",
+      "id": 4
+    },
+    {
+      "name": "Filtered Distilled Water",
+      "image": "images/distilled_water_5.jpg",
+      "price": "$1.69",
+      "company": "Pure Flow",
+      "id": 5
+    },
+    {
+      "name": "Distilled Water with Minerals",
+      "image": "images/distilled_water_6.jpg",
+      "price": "$2.49",
+      "company": "Mineral Pure",
+      "id": 6
+    },
+    {
+      "name": "Ultra-Pure Distilled Water",
+      "image": "images/distilled_water_7.jpg",
+      "price": "$2.19",
+      "company": "Pure Essence",
+      "id": 7
+    },
+    {
+      "name": "Distilled Water Drops",
+      "image": "images/distilled_water_8.jpg",
+      "price": "$1.89",
+      "company": "Droplet Water",
+      "id": 8
+    },
+    {
+      "name": "Spring Distilled Water",
+      "image": "images/distilled_water_9.jpg",
+      "price": "$2.39",
+      "company": "Spring Drops",
+      "id": 9
+    },
+    {
+      "name": "Distilled Water Pack",
+      "image": "images/distilled_water_10.jpg",
+      "price": "$1.59",
+      "company": "Pure Pack",
+      "id": 10
+    }
+  ]
+  

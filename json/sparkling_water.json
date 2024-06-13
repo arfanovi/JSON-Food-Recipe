@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Sparkling Natural Water",
+      "image": "images/sparkling_water_1.jpg",
+      "price": "$1.79",
+      "company": "Sparkle Fresh",
+      "id": 1
+    },
+    {
+      "name": "Citrus Sparkling Water",
+      "image": "images/sparkling_water_2.jpg",
+      "price": "$2.29",
+      "company": "Zesty Waters",
+      "id": 2
+    },
+    {
+      "name": "Lemon Lime Sparkling Water",
+      "image": "images/sparkling_water_3.jpg",
+      "price": "$2.49",
+      "company": "Fizz N' Zing",
+      "id": 3
+    },
+    {
+      "name": "Berry Sparkling Water",
+      "image": "images/sparkling_water_4.jpg",
+      "price": "$2.19",
+      "company": "Berry Fizz",
+      "id": 4
+    },
+    {
+      "name": "Raspberry Sparkling Water",
+      "image": "images/sparkling_water_5.jpg",
+      "price": "$2.69",
+      "company": "Raspberry Splash",
+      "id": 5
+    },
+    {
+      "name": "Cucumber Mint Sparkling Water",
+      "image": "images/sparkling_water_6.jpg",
+      "price": "$2.99",
+      "company": "Cool Cucumber",
+      "id": 6
+    },
+    {
+      "name": "Peach Sparkling Water",
+      "image": "images/sparkling_water_7.jpg",
+      "price": "$2.79",
+      "company": "Peach Perfection",
+      "id": 7
+    },
+    {
+      "name": "Grapefruit Sparkling Water",
+      "image": "images/sparkling_water_8.jpg",
+      "price": "$2.89",
+      "company": "Grapefruit Fizz",
+      "id": 8
+    },
+    {
+      "name": "Mango Sparkling Water",
+      "image": "images/sparkling_water_9.jpg",
+      "price": "$2.59",
+      "company": "Mango Bubbles",
+      "id": 9
+    },
+    {
+      "name": "Tropical Sparkling Water",
+      "image": "images/sparkling_water_10.jpg",
+      "price": "$2.39",
+      "company": "Tropical Splash",
+      "id": 10
+    }
+  ]
+  

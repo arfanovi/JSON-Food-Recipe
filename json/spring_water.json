@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Natural Spring Water",
+      "image": "images/spring_water_1.jpg",
+      "price": "$1.99",
+      "company": "Spring Fresh",
+      "id": 1
+    },
+    {
+      "name": "Mountain Spring Water",
+      "image": "images/spring_water_2.jpg",
+      "price": "$2.49",
+      "company": "Highland Springs",
+      "id": 2
+    },
+    {
+      "name": "Organic Spring Water",
+      "image": "images/spring_water_3.jpg",
+      "price": "$2.99",
+      "company": "Nature's Spring",
+      "id": 3
+    },
+    {
+      "name": "Premium Spring Water",
+      "image": "images/spring_water_4.jpg",
+      "price": "$3.29",
+      "company": "Pure Source",
+      "id": 4
+    },
+    {
+      "name": "Cold Spring Water",
+      "image": "images/spring_water_5.jpg",
+      "price": "$1.79",
+      "company": "Crystal Springs",
+      "id": 5
+    },
+    {
+      "name": "Refreshing Spring Water",
+      "image": "images/spring_water_6.jpg",
+      "price": "$2.89",
+      "company": "Spring Oasis",
+      "id": 6
+    },
+    {
+      "name": "Artesian Spring Water",
+      "image": "images/spring_water_7.jpg",
+      "price": "$3.49",
+      "company": "Eternal Springs",
+      "id": 7
+    },
+    {
+      "name": "Spring Water with Minerals",
+      "image": "images/spring_water_8.jpg",
+      "price": "$2.69",
+      "company": "Mineral Oasis",
+      "id": 8
+    },
+    {
+      "name": "Premium Natural Spring Water",
+      "image": "images/spring_water_9.jpg",
+      "price": "$3.99",
+      "company": "Crystal Clear Springs",
+      "id": 9
+    },
+    {
+      "name": "Filtered Spring Water",
+      "image": "images/spring_water_10.jpg",
+      "price": "$2.99",
+      "company": "Fresh Springs",
+      "id": 10
+    }
+  ]
+  

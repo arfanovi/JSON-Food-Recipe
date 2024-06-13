@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Natural Mineral Water",
+      "image": "images/mineral_water_1.jpg",
+      "price": "$2.29",
+      "company": "Natural Springs",
+      "id": 1
+    },
+    {
+      "name": "Mountain Mineral Water",
+      "image": "images/mineral_water_2.jpg",
+      "price": "$2.79",
+      "company": "Highland Minerals",
+      "id": 2
+    },
+    {
+      "name": "Sparkling Mineral Water",
+      "image": "images/mineral_water_3.jpg",
+      "price": "$3.49",
+      "company": "Fizzing Minerals",
+      "id": 3
+    },
+    {
+      "name": "Mineral Water with Lemon",
+      "image": "images/mineral_water_4.jpg",
+      "price": "$2.59",
+      "company": "Lemon Drop",
+      "id": 4
+    },
+    {
+      "name": "Flavored Mineral Water",
+      "image": "images/mineral_water_5.jpg",
+      "price": "$2.99",
+      "company": "Flavorful Springs",
+      "id": 5
+    },
+    {
+      "name": "Berry Mineral Water",
+      "image": "images/mineral_water_6.jpg",
+      "price": "$2.19",
+      "company": "Berry Essence",
+      "id": 6
+    },
+    {
+      "name": "Cucumber Mineral Water",
+      "image": "images/mineral_water_7.jpg",
+      "price": "$2.69",
+      "company": "Cool Cucumber",
+      "id": 7
+    },
+    {
+      "name": "Peach Mineral Water",
+      "image": "images/mineral_water_8.jpg",
+      "price": "$2.89",
+      "company": "Peachy Minerals",
+      "id": 8
+    },
+    {
+      "name": "Tropical Mineral Water",
+      "image": "images/mineral_water_9.jpg",
+      "price": "$3.19",
+      "company": "Tropical Oasis",
+      "id": 9
+    },
+    {
+      "name": "Mint Mineral Water",
+      "image": "images/mineral_water_10.jpg",
+      "price": "$2.39",
+      "company": "Minty Fresh",
+      "id": 10
+    }
+  ]
+  

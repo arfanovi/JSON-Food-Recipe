@@ -4,7 +4,7 @@ const productList = document.getElementById('product-list');
 let products = [];
 
 // Fetch product data from the JSON file
-fetch('src/biscuits.json')
+fetch('json/biscuits.json')
   .then(res => res.json())
   .then(data => {
     products = data;
@@ -17,7 +17,9 @@ function displayProducts(products) {
   productList.innerHTML = '';
   products.forEach(product => {
     const productDiv = document.createElement('div');
-    productDiv.classList.add('bg-white', 'p-4', 'rounded-lg', 'shadow-lg', 'shadow-md', 'text-center');
+    productDiv.classList.add('bg-base-300', 'p-4', 'rounded-lg', 'shadow-lg', 'shadow-md', 'text-center');
+
+    
 
     productDiv.innerHTML = `
       <img src="${product.image}" alt="${product.name}" class="w-full h-40 object-cover mb-4 rounded">
@@ -86,3 +88,26 @@ searchInput.addEventListener('input', () => {
   const filteredProducts = products.filter(product => product.name.toLowerCase().includes(searchQuery));
   displayProducts(filteredProducts);
 });
+
+
+
+
+// Function to create and append footer
+function createFooter() {
+    const footer = document.createElement('footer');
+    footer.classList.add('bg-gray-900', 'text-white', 'text-center', 'py-4');
+  
+    const footerContent = `
+      <p>&copy; ${new Date().getFullYear()} Treats & Eats. All rights reserved.</p>
+      <p>Made with ❤️ by Ovi</p>
+    `;
+  
+    footer.innerHTML = footerContent;
+  
+    // Append footer to the body
+    document.body.appendChild(footer);
+  }
+  
+  // Call the createFooter function to generate the footer
+  createFooter();
+  
